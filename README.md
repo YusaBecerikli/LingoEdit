@@ -45,7 +45,7 @@ Bu projeyi yerel olarak çalıştırmak ve geliştirmeye katkıda bulunmak ister
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [https://github.com/KullaniciAdiniz/LingoEdit.git](https://github.com/KullaniciAdiniz/LingoEdit.git)
+    git clone [https://github.com/YusaBecerikli/LingoEdit.git](https://github.com/YusaBecerikli/LingoEdit.git)
     cd LingoEdit
     ```
 
